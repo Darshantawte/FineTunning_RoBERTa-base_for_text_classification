@@ -1,2 +1,5 @@
-# FineTunning_RoBERTa-base_for_text_classification
-Impletented Finetunning for RoBERTa base for for email spam classification
+##Finetuning Roberta-base for Email Spam Classification using LoRA
+
+This repository contains code for finetuning the Roberta-base model on a text classification task using LoRA (Low-resource Adaptation) with a dataset comprising emails (subject + message) and labeled as spam or ham.
+
+Task
