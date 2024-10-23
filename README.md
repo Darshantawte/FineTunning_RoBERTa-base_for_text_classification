@@ -55,6 +55,4 @@ This repository contains code for finetuning the Roberta-base model on a text cl
 - Install the required libraries listed in `requirements.txt`.
 - Run the training script with appropriate configurations.
 
-### Acknowledgments
 
-- The dataset used in this project is provided by likhith231 on Hugging Face datasets hub.
